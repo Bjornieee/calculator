@@ -1,0 +1,3 @@
+/home/haissam/depot_git/calculator/CMakeFiles/calculator.dir
+/home/haissam/depot_git/calculator/CMakeFiles/edit_cache.dir
+/home/haissam/depot_git/calculator/CMakeFiles/rebuild_cache.dir
